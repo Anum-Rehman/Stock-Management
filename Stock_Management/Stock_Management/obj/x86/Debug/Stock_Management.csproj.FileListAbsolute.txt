@@ -1,0 +1,45 @@
+c:\users\anum\documents\visual studio 2010\Projects\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe
+c:\users\anum\documents\visual studio 2010\Projects\Stock_Management\Stock_Management\bin\Debug\Stock_Management.pdb
+c:\users\anum\documents\visual studio 2010\Projects\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Form1.resources
+c:\users\anum\documents\visual studio 2010\Projects\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Form2.resources
+c:\users\anum\documents\visual studio 2010\Projects\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Properties.Resources.resources
+c:\users\anum\documents\visual studio 2010\Projects\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.csproj.GenerateResource.Cache
+c:\users\anum\documents\visual studio 2010\Projects\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.exe
+c:\users\anum\documents\visual studio 2010\Projects\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.pdb
+c:\users\anum\documents\visual studio 2010\Projects\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Stock.resources
+c:\users\anum\documents\visual studio 2010\Projects\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.SalesPerson.resources
+c:\users\anum\documents\visual studio 2010\Projects\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Workers.resources
+C:\Users\Anum\Documents\Visual Studio 2010\Projects\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+C:\Users\Anum\Documents\Visual Studio 2010\Projects\Stock_Management\Stock_Management\bin\Debug\en\Stock_Management.resources.dll
+C:\Users\Anum\Documents\Visual Studio 2010\Projects\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Stock.en.resources
+C:\Users\Anum\Documents\Visual Studio 2010\Projects\Stock_Management\Stock_Management\obj\x86\Debug\en\Stock_Management.resources.dll
+D:\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.exe
+D:\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.pdb
+D:\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe
+D:\Stock_Management\Stock_Management\bin\Debug\Stock_Management.pdb
+D:\Stock_Management\Stock_Management\bin\Debug\en\Stock_Management.resources.dll
+D:\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+D:\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Form1.resources
+D:\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Form2.resources
+D:\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Properties.Resources.resources
+D:\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.SalesPerson.resources
+D:\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Stock.resources
+D:\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Workers.resources
+D:\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Stock.en.resources
+D:\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.csproj.GenerateResource.Cache
+D:\Stock_Management\Stock_Management\obj\x86\Debug\en\Stock_Management.resources.dll
+D:\SD Project\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.exe
+D:\SD Project\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.pdb
+D:\SD Project\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe
+D:\SD Project\Stock_Management\Stock_Management\bin\Debug\Stock_Management.pdb
+D:\SD Project\Stock_Management\Stock_Management\bin\Debug\en\Stock_Management.resources.dll
+D:\SD Project\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+D:\SD Project\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Form1.resources
+D:\SD Project\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Form2.resources
+D:\SD Project\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Properties.Resources.resources
+D:\SD Project\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.SalesPerson.resources
+D:\SD Project\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Stock.resources
+D:\SD Project\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Workers.resources
+D:\SD Project\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.Stock.en.resources
+D:\SD Project\Stock_Management\Stock_Management\obj\x86\Debug\Stock_Management.csproj.GenerateResource.Cache
+D:\SD Project\Stock_Management\Stock_Management\obj\x86\Debug\en\Stock_Management.resources.dll
